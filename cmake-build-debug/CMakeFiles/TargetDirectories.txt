@@ -1,0 +1,3 @@
+C:/Users/deimi/CLionProjects/Ia2kMeans/cmake-build-debug/CMakeFiles/Ia2kMeans.dir
+C:/Users/deimi/CLionProjects/Ia2kMeans/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deimi/CLionProjects/Ia2kMeans/cmake-build-debug/CMakeFiles/rebuild_cache.dir
